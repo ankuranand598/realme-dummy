@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/realme-dummy/static/css/main.40e35f86.chunk.css",
+    "main.js": "/realme-dummy/static/js/main.42dd29f8.chunk.js",
+    "main.js.map": "/realme-dummy/static/js/main.42dd29f8.chunk.js.map",
+    "runtime-main.js": "/realme-dummy/static/js/runtime-main.6fda1ff1.js",
+    "runtime-main.js.map": "/realme-dummy/static/js/runtime-main.6fda1ff1.js.map",
+    "static/js/2.6aff2424.chunk.js": "/realme-dummy/static/js/2.6aff2424.chunk.js",
+    "static/js/2.6aff2424.chunk.js.map": "/realme-dummy/static/js/2.6aff2424.chunk.js.map",
+    "static/js/3.d4b63795.chunk.js": "/realme-dummy/static/js/3.d4b63795.chunk.js",
+    "static/js/3.d4b63795.chunk.js.map": "/realme-dummy/static/js/3.d4b63795.chunk.js.map",
+    "index.html": "/realme-dummy/index.html",
+    "static/css/main.40e35f86.chunk.css.map": "/realme-dummy/static/css/main.40e35f86.chunk.css.map",
+    "static/js/2.6aff2424.chunk.js.LICENSE.txt": "/realme-dummy/static/js/2.6aff2424.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/realme-dummy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fda1ff1.js",
+    "static/js/2.6aff2424.chunk.js",
+    "static/css/main.40e35f86.chunk.css",
+    "static/js/main.42dd29f8.chunk.js"
+  ]
+}
